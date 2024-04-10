@@ -1097,6 +1097,11 @@ footer{
 
 
                                             @media screen and (max-width: 459px){
+
+                                                .navrow{
+                                                    flex-direction: row;
+                                                    column-gap: 30px;
+                                                }
                                 
                                             .titulo {
                                                 color: #0077b6;
