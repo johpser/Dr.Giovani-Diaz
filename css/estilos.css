@@ -1435,7 +1435,14 @@ footer{
                                         
                                         @media only screen and (min-width: 460px) and (max-width: 1200px){
                                         
-                                        
+                                            .navrow{
+                                                flex-direction: row;
+                                                column-gap: 30px;
+                                                margin-right: 122px;
+                                                font-size: 22px;
+                                            }
+
+
                                             .titulo {
                                                 font-size: 49px;
                                                 letter-spacing: -1.5px;
@@ -1607,6 +1614,10 @@ footer{
                                                 font-size: 140%;
                                             }
 
+                                            .serviciotobanner{
+                                                height: 81px;
+                                            }
+
 
                                             .padregeneral {
                                                 margin-bottom: 22%;
@@ -1622,6 +1633,14 @@ footer{
                                                     "card5 card6";
                                             }
 
+                                            .contactobanner {
+                                                height: 81px;
+                                            }
+
+                                            .contactotex {
+                                                padding: 14px 0px 0px 0px;
+                                            }
+                                    
 
 
 
